@@ -14,5 +14,5 @@ $mt = $num_album == 0 && $num_foto == 0 ? 'mt-[440px]' : 'mt-20';
 ?>
 
 <div class="flex items-center justify-center w-full py-4 <?php echo $mt; ?> border-t border-gray-300">
-    <p class="text-lg font-semibold">Copyright &#169;2024 By Muhammad Luthfi</p>
+    <p class="text-lg font-medium">Copyright &#169;2024 By Muhammad Luthfi</p>
 </div>
